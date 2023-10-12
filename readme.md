@@ -1,6 +1,6 @@
 ## Record Screening Experiment
 
-This repo contains a Python script for simulation experiment for the Paper "A Resampling Algorithm for Use with Automated Record Screening Software to Ensure High Recall"
+This repo contains a Python script for simulation experiment for the Paper "Enhancing Recall in Automated Record Screening: A Resampling Algorithm".
 
 The script is a versatile tool for running experiments and checking how well the resampling algorithm from the paper works under different situations. It's set up to explore a wide range of scenarios and parameters, providing useful insights into how the algorithm behaves. 
 
